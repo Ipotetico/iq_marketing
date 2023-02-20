@@ -2,7 +2,7 @@
   "name": "iq_page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Ipotetico/iq_page.git",
+  "homepage": "https://github.com/Ipotetico/iq_marketing.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
