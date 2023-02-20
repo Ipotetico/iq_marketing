@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ipotetico/iq_marketing.git/static/css/main.c668dc7f.css",
+    "main.js": "/Ipotetico/iq_marketing.git/static/js/main.fe6ee1a9.js",
+    "index.html": "/Ipotetico/iq_marketing.git/index.html",
+    "main.c668dc7f.css.map": "/Ipotetico/iq_marketing.git/static/css/main.c668dc7f.css.map",
+    "main.fe6ee1a9.js.map": "/Ipotetico/iq_marketing.git/static/js/main.fe6ee1a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c668dc7f.css",
+    "static/js/main.fe6ee1a9.js"
+  ]
+}
