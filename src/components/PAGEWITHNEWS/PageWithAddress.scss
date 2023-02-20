@@ -1,0 +1,35 @@
+.pageWithAddress__container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+
+    .address__container {
+        color: white;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        height: 25%;
+        background-color: #ff506f;
+        padding: 2vw 3vw;
+        font-family: 'Roboto', sans-serif;
+        font-size: calc(10px + .5vw);
+        display: grid;
+        grid-template-columns: 1fr 1fr 5fr;
+
+        h4 {
+            font-weight: 400;
+            margin-bottom: 1vw;
+        }
+
+        p {
+            font-weight: 300;
+            font-size: calc(8px + .5vw);
+            line-height: 1.5;
+        }
+
+    }
+}

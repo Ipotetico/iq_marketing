@@ -1,0 +1,55 @@
+    .case__container {
+        position: absolute;
+        width: 100%;
+        height: 55%;
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        bottom: 0;
+        background-color: #ff506f;
+        overflow: hidden;
+
+        &.two {
+            height: 75%;
+            top: 6vh;
+
+            img {
+                top: 6vh;
+            }
+        }
+
+        img {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            height: auto;
+            transform: translateY(-30%);
+        }
+
+        h3 {
+            font-family: 'Montserrat', sans-serif;
+            color: white;
+            position: absolute;
+            z-index: 1;
+            width: 55%;
+            left: 5%;
+            top: 5%;
+            font-size: calc(20px + 1vw);
+            font-weight: 400;
+            line-height: 1.1;
+            text-shadow: 0 1px 2px #112993;
+        }
+
+        mark {
+            margin: 0 -0.4em;
+            padding: 0.1em 0.4em;
+            border-radius: 0.8em 0.3em;
+            background: transparent;
+            background-image: linear-gradient(to right,
+                    rgba(255, 80, 111, 0.1),
+                    rgba(255, 80, 111, 0.7) 4%,
+                    rgba(255, 80, 111, 0.3));
+            -webkit-box-decoration-break: clone;
+            box-decoration-break: clone;
+        }
+    }

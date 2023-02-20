@@ -1,0 +1,63 @@
+.menu__container {
+    position: fixed;
+    z-index: 999;
+    width: 100vw;
+    height: 6vh;
+    background-color: #ff506f;
+    display: flex;
+    align-items: center;
+
+    .logo__container {
+        width: 10%;
+        min-width: 100px;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        h1 {
+            color: white;
+            font-family: 'Montserrat',
+                sans-serif;
+            font-weight: 600;
+            font-size: calc(12px + .5vw);
+        }
+
+        img {
+            width: 100%;
+        }
+    }
+
+    .links__container {
+        width: 90%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        padding: 0 1vw 0 50vw;
+
+        a {
+            text-decoration: none;
+            color: rgba(255, 255, 255, 0.7);
+            font-family: 'Montserrat', sans-serif;
+            text-transform: capitalize;
+            font-weight: 400;
+            font-size: calc(5px + .4vw);
+            border-bottom: 4px solid rgba(255, 255, 255, 0);
+            transition: all .3s;
+            line-height: 4.5;
+
+            &:hover {
+                color: rgba(255, 255, 255, 1);
+                font-weight: 400;
+                border-bottom: 4px solid rgba(255, 255, 255, 1);
+            }
+        }
+
+        .kreska__pion {
+            height: 30%;
+            width: 1px;
+            background-color: #ffffff;
+        }
+    }
+}
