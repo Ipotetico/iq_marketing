@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ipotetico/iq_marketing.git/static/css/main.c668dc7f.css",
-    "main.js": "/Ipotetico/iq_marketing.git/static/js/main.fe6ee1a9.js",
-    "index.html": "/Ipotetico/iq_marketing.git/index.html",
-    "main.c668dc7f.css.map": "/Ipotetico/iq_marketing.git/static/css/main.c668dc7f.css.map",
-    "main.fe6ee1a9.js.map": "/Ipotetico/iq_marketing.git/static/js/main.fe6ee1a9.js.map"
+    "main.css": "/iq_marketing/static/css/main.c668dc7f.css",
+    "main.js": "/iq_marketing/static/js/main.84dd3532.js",
+    "index.html": "/iq_marketing/index.html",
+    "main.c668dc7f.css.map": "/iq_marketing/static/css/main.c668dc7f.css.map",
+    "main.84dd3532.js.map": "/iq_marketing/static/js/main.84dd3532.js.map"
   },
   "entrypoints": [
     "static/css/main.c668dc7f.css",
-    "static/js/main.fe6ee1a9.js"
+    "static/js/main.84dd3532.js"
   ]
 }
