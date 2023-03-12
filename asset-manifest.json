@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/iq_marketing/static/css/main.c668dc7f.css",
-    "main.js": "/iq_marketing/static/js/main.84dd3532.js",
+    "main.css": "/iq_marketing/static/css/main.42000693.css",
+    "main.js": "/iq_marketing/static/js/main.18a42d9b.js",
     "index.html": "/iq_marketing/index.html",
-    "main.c668dc7f.css.map": "/iq_marketing/static/css/main.c668dc7f.css.map",
-    "main.84dd3532.js.map": "/iq_marketing/static/js/main.84dd3532.js.map"
+    "main.42000693.css.map": "/iq_marketing/static/css/main.42000693.css.map",
+    "main.18a42d9b.js.map": "/iq_marketing/static/js/main.18a42d9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c668dc7f.css",
-    "static/js/main.84dd3532.js"
+    "static/css/main.42000693.css",
+    "static/js/main.18a42d9b.js"
   ]
 }
